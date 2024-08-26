@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MongoPass": "maja",
+        "JWTkey": "labaisaugusslaptazodis"
+    }
+}
