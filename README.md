@@ -2,4 +2,4 @@
 Repo of Graff Yard for PKP
 
 
-EDIT EDIT
+EDIT EDIT bargaining
